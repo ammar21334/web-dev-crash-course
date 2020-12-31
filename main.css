@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500&display=swap');
 .hero-bg {
-    background: #36b7df url('../images/bg.jpg');
+    background: #36b7df url('images-copy/bg.jpg');
     color: white;
     background-size: cover;
     font-weight: bold;
